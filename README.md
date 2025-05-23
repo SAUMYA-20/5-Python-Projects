@@ -90,6 +90,3 @@ Click 'Start' to begin listening
 Speak your command
 View response in chat area
 
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
